@@ -7,6 +7,7 @@ class Movie {
   final String releaseDate;
   final double voteAverage;
 
+// Constructor
   Movie({
     required this.id,
     required this.title,
